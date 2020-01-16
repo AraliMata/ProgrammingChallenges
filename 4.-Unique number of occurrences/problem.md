@@ -1,7 +1,6 @@
 # Problem: 
-In a array A of size 2N, there are N+1 unique elements, and exactly one of these elements is repeated N times.
+Given an array of integers arr, write a function that returns true if and only if the number of occurrences of each value in the array is unique.
 
-Return the element repeated N times.
+# Taken from:
+https://leetcode.com/problems/unique-number-of-occurrences/
 
-## Taken from:
-https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
